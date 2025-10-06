@@ -1,0 +1,7 @@
+Entry Title: Another Test
+
+
+Entry Date: 06/10/2025
+
+
+Another test of the app, as I hadn't considered that the button is still functional the last time. Hopefully this time the button will be rendered deactivated once it is pressed.
