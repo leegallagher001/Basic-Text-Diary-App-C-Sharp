@@ -40,10 +40,10 @@ namespace Basic_Text_Diary_App
 
             }
 
-            /* Hide textboxes and labels */
+            /* Hide textboxes, button and labels */
 
-            buttonSubmit.Text = "Submitted";
             buttonSubmit.Enabled = false;
+            buttonSubmit.Hide();
             labelTitle.Hide();
             labelDate.Hide();
             labelEntry.Hide();
@@ -57,3 +57,4 @@ namespace Basic_Text_Diary_App
         }
     }
 }
+
