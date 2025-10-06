@@ -1,9 +1,0 @@
-Entry Title: 
-
-
-Entry Date: 
-
-
-Hello World!
-
-This is a first test of my first C# diary program.
